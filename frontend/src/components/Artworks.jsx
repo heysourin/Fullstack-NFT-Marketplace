@@ -14,10 +14,10 @@ const Artworks = () => {
               </p>
             ))}
         </div>
-        
       </div>
     </div>
   )
 }
 
+const Card
 export default Artworks
