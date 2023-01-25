@@ -14,6 +14,7 @@ const Artworks = () => {
               </p>
             ))}
         </div>
+        
       </div>
     </div>
   )
