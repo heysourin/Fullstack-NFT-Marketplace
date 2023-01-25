@@ -1,5 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Artworks from "./components/Artworks";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 
@@ -20,11 +20,10 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <div className="bg-black ">
+      <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-gray-800 via-gray-900 to-black">
         <Header />
         <Hero />
-      </div>
-      <div className="bg-black">
+        <Artworks />
       </div>
     </div>
   );

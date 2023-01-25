@@ -12,7 +12,7 @@ const Header = () => {
         <li className="mx-4 cursor-pointer">Features</li>
         <li className="mx-4 cursor-pointer">Commmunity</li>
       </ul>
-      <button className="bg-gradient-to-r from-rose-100 to-teal-100 shadow-xl shadow-fuchsia-300 hover:bg-red-600 md:text-xs py-4 px-8 rounded-full font-bold ml-12 text-2xl">
+      <button className="bg-gradient-to-r from-rose-100 to-teal-100 shadow-xla shadow-fuchsia-300 hover:bg-red-600 md:text-xs py-4 px-8 rounded-full font-bold ml-12 text-2xl">
         Connect Wallet
       </button>
     </div>
