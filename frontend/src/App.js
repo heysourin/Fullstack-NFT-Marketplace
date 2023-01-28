@@ -1,7 +1,10 @@
 import "./App.css";
 import Artworks from "./components/Artworks";
+import CreateNFT from "./components/CreateNFT";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import Transactions from "./components/Transactions";
 
 function App() {
   return (
@@ -24,6 +27,9 @@ function App() {
         <Header />
         <Hero />
         <Artworks />
+        <Transactions />
+        <CreateNFT />
+        <Footer />
       </div>
     </div>
   );

@@ -8,7 +8,7 @@ const Hero = () => {
         <div>
           <h1 className="text-white text-5xl font-bold ">
             Buy & Sell <br /> Advanced{' '}
-            <span className="font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+            <span className="font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-orange-600">
               NFTs
             </span>{' '}
             <br />
@@ -24,7 +24,7 @@ const Hero = () => {
         <div className="flex mt-5">
           <button
             type="button"
-            className="text-white bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-medium rounded-lg text-xl px-5 py-2.5 text-center mr-2 mb-2"
+            className="text-white bg-gradient-to-r from-purple-600 to-orange-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-medium rounded-lg text-xl px-5 py-2.5 text-center mr-2 mb-2"
           >
             Create Your NFT{' '}
           </button>
